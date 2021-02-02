@@ -1,0 +1,6 @@
+﻿  IO- function.c
+E:\C practise\Project1\IO- function.c(21,29): warning C4047: “函数”:“FILE **”与“char [9]”的间接级别不同
+E:\C practise\Project1\IO- function.c(21,19): warning C4024: “fopen_s”: 形参和实参 1 的类型不同
+E:\C practise\Project1\IO- function.c(21,18): error C2198: “fopen_s”: 用于调用的参数太少
+E:\C practise\Project1\IO- function.c(21,37): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+E:\C practise\Project1\IO- function.c(24,43): warning C4020: “puts”: 实参太多
