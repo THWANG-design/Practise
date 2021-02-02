@@ -1,0 +1,7 @@
+﻿  源.c
+E:\Writingfiles\Project1\源.c(20,15): warning C4013: “s_gets”未定义；假设外部返回 int
+E:\Writingfiles\Project1\源.c(20,35): warning C4047: “!=”:“int”与“void *”的间接级别不同
+E:\Writingfiles\Project1\源.c(31,23): warning C4047: “函数”:“rsize_t”与“char [81]”的间接级别不同
+E:\Writingfiles\Project1\源.c(31,19): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+E:\Writingfiles\Project1\源.c(31,12): error C2198: “strcpy_s”: 用于调用的参数太少
+E:\Writingfiles\Project1\源.c(92,7): error C2040: “s_gets”:“char *(char *,int)”与“int ()”的间接寻址级别不同
